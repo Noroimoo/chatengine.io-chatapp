@@ -5,7 +5,7 @@
 3.Заходим в проект и копируем API ключ и вставляем его в index.js и project ID вставляем в ChatsPage.JS\
 4.nmp install\
 5.npm start\
-6.npm run dev\
+6.npm run dev
 
 
 
